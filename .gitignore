@@ -1,0 +1,33 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache e artefatos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Builds e distribuições
+build/
+dist/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.zip
+
+# Configurações de IDE/Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
